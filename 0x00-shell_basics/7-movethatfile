@@ -1,6 +1,2 @@
 #!/bin/bash
-cd /tmp
-touch betty
-mv betty /tmp/holberton
-cd /tmp/holberton
-ls
+mv /tmp/betty  /tmp/holberton
