@@ -1,10 +1,2 @@
 #!/bin/bash
-
-cd ~
-
-HHO=$(whoami)
-
-HWM=/home/$HHO
-
-echo $HWM
-cd $HWM
+cd
