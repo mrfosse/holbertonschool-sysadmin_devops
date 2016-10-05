@@ -1,2 +1,2 @@
 #!/bin/bash
-chowd -H betty:holberton _hello
+chowd -RH betty:holberton _hello
