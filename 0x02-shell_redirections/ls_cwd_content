@@ -1,5 +1,5 @@
 total 124
-drwxrwxr-x. 2 stuart stuart 4096 Oct  8 18:22 .
+drwxrwxr-x. 2 stuart stuart 4096 Oct  8 18:33 .
 drwxrwxr-x. 6 stuart stuart 4096 Oct  8 11:58 ..
 -rwxrwxr-x. 1 stuart stuart   32 Oct  8 11:58 0-hello_world
 -rwxrwxr-x. 1 stuart stuart   51 Oct  8 11:58 10-no_more_js
@@ -24,10 +24,10 @@ drwxrwxr-x. 6 stuart stuart 4096 Oct  8 11:58 ..
 -rwxrwxr-x. 1 stuart stuart   51 Oct  8 11:58 7-file
 -rw-rw-r--. 1 stuart stuart 4096 Oct  8 11:58 .7-file.swo
 -rw-rw-r--. 1 stuart stuart 4096 Oct  8 11:58 .7-file.swp
--rwxrwxr-x. 1 stuart stuart   36 Oct  8 18:21 8-cdw_state
+-rwxrwxr-x. 1 stuart stuart   37 Oct  8 18:33 8-cwd_state
 -rwxrwxr-x. 1 stuart stuart   36 Oct  8 11:58 9_duplicate_last_line
 -rwxrwxr-x. 1 stuart stuart   59 Oct  8 11:58 gitpush.sh
 -rw-rw-r--. 1 stuart stuart   42 Oct  8 11:58 iacta
 -rw-rw-r--. 1 stuart stuart  168 Oct  8 13:52 list
--rw-rw-r--. 1 stuart stuart    0 Oct  8 18:22 ls_cwd_content
+-rw-rw-r--. 1 stuart stuart    0 Oct  8 18:33 ls_cwd_content
 -rw-rw-r--. 1 stuart stuart    9 Oct  8 11:58 test
