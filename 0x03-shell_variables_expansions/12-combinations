@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | cut -d' ' --complement -s -f379 --output-delimiter=$'\n'
